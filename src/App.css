@@ -1,0 +1,33 @@
+.cv {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 25px;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.cv section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.cv h1 {
+  color: #1d3557;
+  text-align: center;
+}
+
+.cv h2 {
+  color: #457b9d;
+  border-bottom: 2px solid #457b9d;
+  padding-bottom: 8px;
+}
+
+.cv p {
+  line-height: 1.6;
+}
+
+.cv li {
+  margin-bottom: 8px;
+}
